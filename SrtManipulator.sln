@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderTests", "ReaderTests\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDomain", "DataDomain\DataDomain.csproj", "{C1CD3F7E-0CD0-4C3F-B289-18F15E076619}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystem", "FileSystem\FileSystem.csproj", "{B4F7BEA9-1CE8-4350-9777-B699AD38EA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIleSystemTests", "FIleSystemTests\FIleSystemTests.csproj", "{072546E5-689B-45E8-A979-D00EE4605EBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{C1CD3F7E-0CD0-4C3F-B289-18F15E076619}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1CD3F7E-0CD0-4C3F-B289-18F15E076619}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1CD3F7E-0CD0-4C3F-B289-18F15E076619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F7BEA9-1CE8-4350-9777-B699AD38EA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F7BEA9-1CE8-4350-9777-B699AD38EA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F7BEA9-1CE8-4350-9777-B699AD38EA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F7BEA9-1CE8-4350-9777-B699AD38EA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072546E5-689B-45E8-A979-D00EE4605EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072546E5-689B-45E8-A979-D00EE4605EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072546E5-689B-45E8-A979-D00EE4605EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072546E5-689B-45E8-A979-D00EE4605EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

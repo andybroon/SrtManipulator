@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDomain", "DataDomain\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystem", "FileSystem\FileSystem.csproj", "{B4F7BEA9-1CE8-4350-9777-B699AD38EA9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemTests", "FileSystemTests\FileSystemTests.csproj", "{8CB302C1-F0FC-45CE-8779-409BE8CADEFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemTests", "FileSystemTests\FileSystemTests.csproj", "{8D6DBB3A-2B41-475E-BDBD-8A1E149D1B15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +53,10 @@ Global
 		{B4F7BEA9-1CE8-4350-9777-B699AD38EA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4F7BEA9-1CE8-4350-9777-B699AD38EA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4F7BEA9-1CE8-4350-9777-B699AD38EA9E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8CB302C1-F0FC-45CE-8779-409BE8CADEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8CB302C1-F0FC-45CE-8779-409BE8CADEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8CB302C1-F0FC-45CE-8779-409BE8CADEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8CB302C1-F0FC-45CE-8779-409BE8CADEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6DBB3A-2B41-475E-BDBD-8A1E149D1B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6DBB3A-2B41-475E-BDBD-8A1E149D1B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6DBB3A-2B41-475E-BDBD-8A1E149D1B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6DBB3A-2B41-475E-BDBD-8A1E149D1B15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "npWjXBwRtg5sEbuI/T8U6UPCj8bjiW497aiog0gnxGKXeNdBDnu7PqXvFrL67vrPYMS7M+0KcfuDSPk8hxQC/w==",
+  "success": true,
+  "projectFilePath": "C:\\SourceCode\\SrtManipulator\\Reader\\Reader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

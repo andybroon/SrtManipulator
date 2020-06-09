@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriterTests", "WriterTests\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderTests", "ReaderTests\ReaderTests.csproj", "{4EB907B6-C859-43BC-A4FD-7FBF663FD58B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDomain", "DataDomain\DataDomain.csproj", "{C1CD3F7E-0CD0-4C3F-B289-18F15E076619}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4EB907B6-C859-43BC-A4FD-7FBF663FD58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EB907B6-C859-43BC-A4FD-7FBF663FD58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EB907B6-C859-43BC-A4FD-7FBF663FD58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1CD3F7E-0CD0-4C3F-B289-18F15E076619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CD3F7E-0CD0-4C3F-B289-18F15E076619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CD3F7E-0CD0-4C3F-B289-18F15E076619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CD3F7E-0CD0-4C3F-B289-18F15E076619}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

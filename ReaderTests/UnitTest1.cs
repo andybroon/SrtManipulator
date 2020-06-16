@@ -2,11 +2,12 @@ using NUnit.Framework;
 
 namespace ReaderTests
 {
-    public class Tests
+    public class TextFileReaderTests
     {
         [SetUp]
         public void Setup()
         {
+
         }
 
         [Test]

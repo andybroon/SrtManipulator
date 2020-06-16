@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DataDomain\DataDomain.csproj" />
+    <ProjectReference Include="..\FileSystem\FileSystem.csproj" />
   </ItemGroup>
 
 </Project>
